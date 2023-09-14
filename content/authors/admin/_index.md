@@ -1,6 +1,6 @@
 ---
 title: Mingyan Wang
-role: M.S. in Computer Engineering @ New York University
+role: M.S. in Computer Engineering
 bio: My interests include distributed systems and database systems.
 interests:
   - distributed systems
@@ -26,25 +26,22 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: New York University
+    url: https://www.nyu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S in Computer Engineering
+      institution: New York University
+      year: 2024
+    - course: Bsc in Computer Science
+      institution: University of Nottingham
+      year: 2022
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Wang
 highlight_name: true
-first_name: Alice
+first_name: Mingyan
 email: ""
 ---
 W﻿elcome! I am Mingyan. I will graudate from New York University in May 2024. Here is my personal website with my recent progress in programming and life. If you're interested about me, feel free to contact me! Let's grab a coffee.
