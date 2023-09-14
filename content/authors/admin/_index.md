@@ -1,5 +1,5 @@
 ---
-title: Mingyan (Cyril) Wang
+title: Mingyan Wang
 role: M.S. in Computer Engineering @ New York University
 bio: My interests include distributed systems and database systems.
 interests:
